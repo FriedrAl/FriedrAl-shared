@@ -1,2 +1,4 @@
 "Neue Datei mit infos im featurebranch" 
 Änderung von Schilcher 
+
+*
